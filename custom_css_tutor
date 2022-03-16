@@ -1,0 +1,161 @@
+/*dropdown menus*/
+.select2-container--open .select2-dropdown--below{margin-top:1.6em!important;}
+
+/* Comments */
+.contact_form_contact{text-align:center;}
+.contact_form_contact label{color:#000;}
+.wpcf7-form-control {margin-top:1em;}	
+/**/
+.normal_button_menu{
+    font-size:1em;
+    margin:0;
+    padding:0;
+}
+
+.dc-loginfooterinfo a, .dc-show-login a, .dc-btn {
+    background:#E64632;
+    color:white !important;
+    font-weight:500 !important;
+    padding:0.5em 1em 0 1em;
+    height:3em !important;
+    line-height:2em;
+}
+
+.dc-forgot-password{
+    background:#FFECE9;
+}
+
+/*home search bar config*/
+
+.search_bar_home .dc-advancedsearch{
+    width:100%;
+    float:none;
+}
+
+.dc-advancesearch-holder{
+    border:0px;
+}
+
+.dc-formtheme.dc-form-advancedsearch{
+    border:2px solid #E64632;
+    border-radius:30px;
+    padding:0;
+}
+
+.search_bar_home{
+    width:80%;
+    padding:0;
+}
+
+.dc-searchform-hold,.dc-advancedsearch,.dc-searchform-holder{
+    background:none;
+    box-shadow:none;
+}
+.dc-form-advancedsearch fieldset{
+    margin:0;
+}
+
+fieldset .form-group input{
+    border-radius:30px!important;
+}
+
+
+.search_bar_home.dc-formtheme {
+    padding:0;
+    background:none;
+}
+
+.fieldset.dc-formbtn {
+    border-radius:30px;
+    padding:0;
+}
+
+.dc-formbtn{
+    margin:0;
+    top:0;
+    right:0;
+}
+.dc-formbtn .dc-serach-form{border-radius:30px;}
+
+.dc-hidelocation .dc-form-advancedsearch fieldset .form-group:first-child{border-radius:30px;padding:0;}
+
+.advancefilters-wrap{
+    padding:1em .5em;
+    display: grid;
+    justify-items:flex-start;
+}
+
+.advancefilters-wrap .form-group:nth-child(1){
+    display:flex;
+    grid-column:1;
+    width:50%;
+    
+}
+
+.advancefilters-wrap .form-group:nth-child(2){
+    display:flex;
+    grid-column:2;
+    
+}
+.dc-form-advancedsearch fieldset .form-group{
+    padding:0;
+
+}
+
+.dc-hidelocation .dc-form-advancedsearch fieldset{border-radius:30px;padding:0}
+
+/*top search bar config*/
+.dc-innerbanner{
+    max-width:80%;
+    padding:.5em;
+}
+.dc-innerbanner .dc-btnarea{
+    margin:0;
+    top:0;
+    right:0;
+}
+.dc-innerbanner .dc-btnarea input{
+    border-radius: 30px;
+    height: 2.9em !important;
+    border: none;
+}
+
+.dc-innerbanner .dc-docsearch{
+    margin:1.5em 0;
+}
+
+/*h3 title in support pages*/
+.dc-title a{
+    line-height:2em;
+}				
+
+/*login form*/
+.dc-startoption li{
+    width:50%;
+}
+
+/*login button*/
+.dc-loginarea a{
+    line-height:1.5em;
+}
+.form-group .dc-btn{
+    background:#E64632;
+}
+
+/*login form pop up*/
+
+.dc-loginformpop .modal-dialog{
+    max-width:500px;
+}		
+
+
+/*Nav menu - user tutor dashboard*/
+.dc-usernav{
+    width:300px;
+}
+
+/*Icon menu*/
+.social-profiles-wrap .dc-inputwithicon i{
+    border-radius:40px;
+
+}				
